@@ -10,4 +10,4 @@ Voice Over Intranet is a system for voice calling over intranet for the people o
 
 ## Lisence and Copyright
 © Deepak Tatyaji Ahire, WCE, Sangli
-Lisenced under the [MIT Lisence](Voice-Over-Intranet-VOIT-/LISENCE.md).
+Lisenced under the [MIT Lisence](https://github.com/adeepak7/Voice-Over-Intranet-VOIT-/blob/master/LISENCE.md).
